@@ -7,6 +7,8 @@
 - 🌱 I’m currently learning MERN Stack.
 - 👯 I’m looking to collaborate on exciting projects.
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=charviupreti&theme=chalk&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+  
 
   
 <!--
