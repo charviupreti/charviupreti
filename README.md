@@ -2,9 +2,9 @@
 
 [![An image of @charviupreti's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/charviupreti)](https://holopin.io/@charviupreti)
 
-- 😄 Pronouns: she/her
+- 😄 Pronouns: she/her.
 - 🔭 I’m currently a third year student pursuing B.Tech Computer Science.
-- 🌱 I’m currently learning MERN Stack
+- 🌱 I’m currently learning MERN Stack.
 - 👯 I’m looking to collaborate on exciting projects.
 
 
