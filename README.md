@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Charvi Upreti</h1>
 
-[![An image of @charviupreti's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/charviupreti)](https://holopin.io/@charviupreti)
+<p align="center">
+  <a href="https://holopin.io/@charviupreti">
+    <img src="https://holopin.me/charviupreti" alt="Charviupreti's Holopin badges">
+  </a>
+</p>
+
 
 - 😄 Pronouns: she/her.
 - 🔭 I’m currently a third year student pursuing B.Tech Computer Science.
@@ -8,8 +13,24 @@
 - 🌱 I’m currently learning MERN Stack.
 - 🔍 I’m looking to collaborate on exciting projects.
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=charviupreti&theme=chalk&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-  
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=charviupreti" alt="GitHub Streak">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/mrsarthak001">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=charviupreti&theme=buefy&show_icons=true&count_private=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charviupreti&theme=buefy&layout=compact" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=charviupreti&theme=chalk&row=1" alt="GitHub Trophy">
+  </a>
+</p>
 
   
 <!--
