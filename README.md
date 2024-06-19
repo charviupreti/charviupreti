@@ -8,7 +8,7 @@
 
 
 - 😄 Pronouns: she/her.
-- 🔭 I’m currently a third year student pursuing B.Tech Computer Science.
+- 🔭 I’m currently a final year student pursuing B.Tech Computer Science.
 - 🪴 I'm interested in and enjoy working with Data Analytics and AI-ML.
 - 🌱 I’m currently learning MERN Stack.
 - 🔍 I’m looking to collaborate on exciting projects.
