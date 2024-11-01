@@ -1,11 +1,5 @@
 <h1 align="center">Hi 👋, I'm Charvi Upreti</h1>
 
-<p align="center">
-  <a href="https://holopin.io/@charviupreti">
-    <img src="https://holopin.me/charviupreti" alt="Charviupreti's Holopin badges">
-  </a>
-</p>
-
 
 - 😄 Pronouns: she/her.
 - 🔭 I’m currently a final year student pursuing B.Tech Computer Science.
