@@ -26,6 +26,8 @@
   </a>
 </p>
 
+
+[![An image of @charviupreti's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/charviupreti)](https://holopin.io/@charviupreti)
   
 <!--
 **charviupreti/charviupreti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
