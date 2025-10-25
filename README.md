@@ -20,11 +20,13 @@
   </a>
 </p>
 
+<!--
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=charviupreti&theme=chalk&row=1" alt="GitHub Trophy">
   </a>
 </p>
+-->
 
 
 [![An image of @charviupreti's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/charviupreti)](https://holopin.io/@charviupreti)
