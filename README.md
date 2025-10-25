@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Charvi Upreti</h1>
 
 
-- 😄 Pronouns: she/her.
-- 🔭 I’m currently a final year student pursuing B.Tech Computer Science.
-- 🪴 I'm interested in and enjoy working with Data Analytics and AI-ML.
-- 🌱 I’m currently learning MERN Stack.
-- 🔍 I’m looking to collaborate on exciting projects.
+- 😄 Pronouns: she/her  
+- 💼 SWE 1 at HTS Aerospace  
+- 🧠 Interested in Data Analytics & AI/ML  
+- 🌱 Learning C#, C++, MVVM & WPF  
+- 🤝 Open to collaborating on exciting projects  
 
 <p align="center">
   <a href="https://git.io/streak-stats">
