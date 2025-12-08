@@ -7,27 +7,11 @@
 - 🌱 Learning C#, C++, MVVM & WPF  
 - 🤝 Open to collaborating on exciting projects  
 
-<p align="center">
+<div align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=charviupreti" alt="GitHub Streak">
+    <img src="https://streak-stats.demolab.com?user=charviupreti&theme=nightowl&hide_border=true&short_numbers=true&hide_current_streak=true" alt="GitHub Streak" />
   </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/mrsarthak001">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=charviupreti&theme=buefy&show_icons=true&count_private=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charviupreti&theme=buefy&layout=compact" />
-  </a>
-</p>
-
-<!--
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=charviupreti&theme=chalk&row=1" alt="GitHub Trophy">
-  </a>
-</p>
--->
-
+</div>
 
 [![An image of @charviupreti's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/charviupreti)](https://holopin.io/@charviupreti)
   
